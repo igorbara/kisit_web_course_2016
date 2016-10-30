@@ -1,0 +1,9 @@
+{
+  "name": "nodeEx",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "socket.io": "^1.5.0"
+  }
+}
